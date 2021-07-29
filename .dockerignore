@@ -1,0 +1,27 @@
+# Git
+.git
+.gitignore
+
+# Logs
+log/*
+
+# Temp files
+tmp/*
+
+# Editor temp files
+*.swp
+*.swo
+
+
+# Docker Files
+*Dockerfile*
+*docker-compose*
+
+# Node modules
+node_modules
+
+# Bundle
+.bundle
+
+# Documentation
+docs
